@@ -1,5 +1,7 @@
 # Vefforritun 2, 2023, verkefni 2: enn betra viðburðakerfi
 
+[Kynning í fyrirlestri](https://www.youtube.com/watch?v=p0z71I1qOCg)
+
 ## Markmið
 
 - Vinna með og uppfæra kóða úr keyrandi verkefni
